@@ -1,4 +1,4 @@
-import { from } from 'rxjs';
+
 import { Hero } from './hero';
 
 export const HEROES: Hero[] = [
